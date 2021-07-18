@@ -22,20 +22,29 @@ KELAS : TI.19.B2
 
 ![users](https://user-images.githubusercontent.com/81977333/126078428-3e8f89d6-8d7d-415b-b459-3985e5a6cb78.JPG)
 
-Tampilan Index Tabel Motor
+4.Tampilan Index Tabel Motor
 
-![tabel motor](https://user-images.githubusercontent.com/81977333/126078982-eac638c8-1e9f-49c7-a738-377e99ca65a9.JPG)
+![tbel motor](https://user-images.githubusercontent.com/81977333/126079882-48859e20-2747-4e43-8b5d-7d4431212743.JPG)
 
-Tampilan Index Tabel Pembeli
+5.Tampilan Tambah Tabel Motor
 
-![tabel Pembeli](https://user-images.githubusercontent.com/81977333/126079119-0309cf3d-ab45-4d33-9ea2-792623ad6601.JPG)
+![tambah tabel motor](https://user-images.githubusercontent.com/81977333/126080034-53a01fff-491d-442e-b277-c0e25e807208.JPG)
 
-Tampilan Index Tabel Pembayaran
+6.Tampilan Hasil Tambah Tabel Motor
 
-![Tabel Pembayaran](https://user-images.githubusercontent.com/81977333/126079191-af1709e0-24af-487d-997d-b4e9c1efc321.JPG)
+![hasil tambah motor](https://user-images.githubusercontent.com/81977333/126080100-52e440b7-e6b9-4f69-99f0-cd9140d89369.JPG)
 
-Tambah,Edit,dan Hapus data di Tabel Motor
+7.Tampilan Sebelum Ubah Tabel Motor
 
-![tambah tabel motor 1](https://user-images.githubusercontent.com/81977333/126079555-a8fa97b0-081b-4cf4-ac7d-bb176c03660d.JPG)
+![T Sebelum ubah tabel motor](https://user-images.githubusercontent.com/81977333/126080336-6cf45d52-f761-48c6-a03b-8970f860a44d.JPG)
+
+8.Tampilan Proses Ubah Tabel Motor
+
+![T proses ubah tabel motor](https://user-images.githubusercontent.com/81977333/126080378-e1bd7e15-7da8-4440-8746-68fda23d10d9.JPG)
+
+9.Hasil Ubah Tabel Motor
+
+![H Ubah tabel motor](https://user-images.githubusercontent.com/81977333/126080438-b1d5809b-182a-4f82-8ccf-b9f58da9ff4e.JPG)
+
 
 
